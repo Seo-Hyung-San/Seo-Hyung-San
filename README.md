@@ -1,4 +1,5 @@
 # 😄Seo-Hyung-San 
+# 달리고, 달려서 목표를 성취하자.
 
 ### [Today]
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeo-Hyung-San%2FSeo-Hyung-San&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -36,13 +37,11 @@
 ### [History]
 - 2022\. 06 ~ ing (주)셀러픽 (http://sellerpick.co.kr/)
   - 자사 이커머스 솔루션 개발
-  
 - 2020\. 09 ~ 2021. 12 (주)코디얼 (https://www.cordial.co.kr)
   - 대외경제정책연구원
   - 정보통신정책연구원
   - 한국개발연구원
   - KBS미디어
   - 수도권 매립지 관리공사
-  
 - 2015\. 03 ~ 2020. 02 한국IT전문학교
   - 정보보안학과
