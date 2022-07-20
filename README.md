@@ -32,7 +32,7 @@
 ![Seo-Hyung-San's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seo-Hyung-San&show_icons=true&theme=dracula)
 
 ### [BackJoon]
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjgudtks1)](https://solved.ac/tjgudtks1/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=phoshop_by)](https://solved.ac/phoshop_by/)
 
 ### [History]
 - 2022\. 06 ~ ing (주)셀러픽 (http://sellerpick.co.kr/)
