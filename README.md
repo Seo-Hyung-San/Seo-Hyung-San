@@ -22,11 +22,6 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24.svg?&style=for-the-badge&logo=XAMPP&logoColor=white)
 
-### [Learning]
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
-![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
-
 ### [GitHub Stats]
 ![Seo-Hyung-San's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seo-Hyung-San&show_icons=true&theme=dracula)
 
