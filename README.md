@@ -11,6 +11,7 @@
 
 ### [Back-End]
 ![PHP](https://img.shields.io/badge/PHP-4479A1.svg?&style=for-the-badge&logo=PHP&logoColor=white)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=white)
 
 ### [DataBase]
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white)
@@ -30,7 +31,11 @@
 
 ### [History]
 - 2022\. 06 ~ ing (주)셀러픽 (http://sellerpick.co.kr/)
-  - 자사 이커머스 솔루션 개발
+  - 웹 디자인 편집 에디터
+  - 결제 모듈 버전 업그레이드
+  - 마켓별 조회 수 수집 모듈
+  - 조회 수 통계 및 관리 모듈
+
 - 2020\. 09 ~ 2021. 12 (주)코디얼 (https://www.cordial.co.kr)
   - 대외경제정책연구원
   - 정보통신정책연구원
